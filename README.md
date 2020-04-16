@@ -17,8 +17,8 @@ Kaggle网站：https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
 选择预训练模型的全局平均池化层的输出为新的特征，注意到对于每张图像，GoogLeNet提取到1024维特征；ResNet和ResNeXt提取到2048维特征；最后组合成5120维特征。
 
 特征提取这一步比较花时间，这里提供了特征提取后的结果下载：
-- 链接：https://pan.baidu.com/s/1pzyUh8T7m67sD6C3FWTnXg 
-- 提取码：9r3f 
+- 链接：https://pan.baidu.com/s/1vl3470fsVplNueMKJiac4g 
+- 提取码：fak4 
 
 
 ### Step2：模型训练
